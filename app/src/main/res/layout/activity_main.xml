@@ -33,7 +33,7 @@
                 android:textSize="72sp" />
 
             <Button
-                android:id="@+id/three_points_button"
+                android:id="@+id/three_points_team_a_button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
@@ -42,7 +42,7 @@
                 android:textAllCaps="true" />
 
             <Button
-                android:id="@+id/two_points_button"
+                android:id="@+id/two_points_team_a_button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
@@ -51,7 +51,7 @@
                 android:textAllCaps="true" />
 
             <Button
-                android:id="@+id/free_throw_points_button"
+                android:id="@+id/free_throw_points_team_a_button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
@@ -84,7 +84,7 @@
                 android:textSize="72sp" />
 
             <Button
-                android:id="@+id/three_points_button"
+                android:id="@+id/three_points_team_b_button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
@@ -93,7 +93,7 @@
                 android:textAllCaps="true" />
 
             <Button
-                android:id="@+id/two_points_button"
+                android:id="@+id/two_points_team_b_button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
@@ -102,7 +102,7 @@
                 android:textAllCaps="true" />
 
             <Button
-                android:id="@+id/free_throw_points_button"
+                android:id="@+id/free_throw_points_team_b_button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
